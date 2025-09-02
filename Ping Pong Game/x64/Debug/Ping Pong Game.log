@@ -1,0 +1,13 @@
+﻿  Ping Pong Game.cpp
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(23,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(23,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(23,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(28,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(29,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(85,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(173,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(177,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\Ping Pong Game\Ping Pong Game.cpp(185,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Ping Pong Game.vcxproj -> C:\Users\Ibrahim Muhammad\source\repos\Ping Pong Game\x64\Debug\Ping Pong Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
